@@ -10,4 +10,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/Sivaram1024/Leetcode/tree/master/0657-robot-return-to-origin) |
+## Array
+|  |
+| ------- |
+| [1550-three-consecutive-odds](https://github.com/Sivaram1024/Leetcode/tree/master/1550-three-consecutive-odds) |
 <!---LeetCode Topics End-->
