@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/Sivaram1024/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1550-three-consecutive-odds](https://github.com/Sivaram1024/Leetcode/tree/master/1550-three-consecutive-odds) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Sivaram1024/Leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
 ## Math
@@ -20,4 +21,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Sivaram1024/Leetcode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Sivaram1024/Leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
+## Two Pointers
+|  |
+| ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/Sivaram1024/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/Sivaram1024/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
