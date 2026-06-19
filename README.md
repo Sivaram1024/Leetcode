@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Sivaram1024/Leetcode/tree/master/0682-baseball-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sivaram1024/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1550-three-consecutive-odds](https://github.com/Sivaram1024/Leetcode/tree/master/1550-three-consecutive-odds) |
+| [1732-find-the-highest-altitude](https://github.com/Sivaram1024/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Sivaram1024/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Sivaram1024/Leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
 ## Math
@@ -40,4 +41,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/Sivaram1024/Leetcode/tree/master/0682-baseball-game) |
+## Prefix Sum
+|  |
+| ------- |
+| [1732-find-the-highest-altitude](https://github.com/Sivaram1024/Leetcode/tree/master/1732-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
