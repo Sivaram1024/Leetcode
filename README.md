@@ -63,14 +63,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/Sivaram1024/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0371-sum-of-two-integers](https://github.com/Sivaram1024/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [1486-xor-operation-in-an-array](https://github.com/Sivaram1024/Leetcode/tree/master/1486-xor-operation-in-an-array) |
 ## Binary Search
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sivaram1024/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0222-count-complete-tree-nodes](https://github.com/Sivaram1024/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 ## Hash Table
 |  |
 | ------- |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Sivaram1024/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
+## Tree
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/Sivaram1024/Leetcode/tree/master/0222-count-complete-tree-nodes) |
+## Binary Tree
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/Sivaram1024/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
