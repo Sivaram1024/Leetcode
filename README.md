@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/Sivaram1024/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/Sivaram1024/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0877-stone-game](https://github.com/Sivaram1024/Leetcode/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/Sivaram1024/Leetcode/tree/master/1025-divisor-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Sivaram1024/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Sivaram1024/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1486-xor-operation-in-an-array](https://github.com/Sivaram1024/Leetcode/tree/master/1486-xor-operation-in-an-array) |
@@ -137,16 +138,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Sivaram1024/Leetcode/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/Sivaram1024/Leetcode/tree/master/1025-divisor-game) |
 ## Game Theory
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Sivaram1024/Leetcode/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/Sivaram1024/Leetcode/tree/master/1025-divisor-game) |
 ## Brainteaser
 |  |
 | ------- |
+| [1025-divisor-game](https://github.com/Sivaram1024/Leetcode/tree/master/1025-divisor-game) |
 | [2396-strictly-palindromic-number](https://github.com/Sivaram1024/Leetcode/tree/master/2396-strictly-palindromic-number) |
 ## Enumeration
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Sivaram1024/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+## Impartial Game
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Sivaram1024/Leetcode/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
