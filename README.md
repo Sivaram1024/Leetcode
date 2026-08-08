@@ -157,4 +157,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/Sivaram1024/Leetcode/tree/master/1025-divisor-game) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Sivaram1024/Leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
