@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Sivaram1024/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Sivaram1024/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Sivaram1024/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Sivaram1024/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3019-number-of-changing-keys](https://github.com/Sivaram1024/Leetcode/tree/master/3019-number-of-changing-keys) |
 ## Simulation
 |  |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/Sivaram1024/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Sivaram1024/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Sivaram1024/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Sivaram1024/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Sivaram1024/Leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Sivaram1024/Leetcode/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sivaram1024/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -168,4 +170,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0175-combine-two-tables](https://github.com/Sivaram1024/Leetcode/tree/master/0175-combine-two-tables) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/Sivaram1024/Leetcode/tree/master/0181-employees-earning-more-than-their-managers) |
+## Segment Tree
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Sivaram1024/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Ordered Set
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Sivaram1024/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 <!---LeetCode Topics End-->
