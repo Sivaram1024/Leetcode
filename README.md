@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Sivaram1024/Leetcode/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sivaram1024/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1260-shift-2d-grid](https://github.com/Sivaram1024/Leetcode/tree/master/1260-shift-2d-grid) |
+| [1386-cinema-seat-allocation](https://github.com/Sivaram1024/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sivaram1024/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1550-three-consecutive-odds](https://github.com/Sivaram1024/Leetcode/tree/master/1550-three-consecutive-odds) |
 | [1732-find-the-highest-altitude](https://github.com/Sivaram1024/Leetcode/tree/master/1732-find-the-highest-altitude) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Sivaram1024/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0371-sum-of-two-integers](https://github.com/Sivaram1024/Leetcode/tree/master/0371-sum-of-two-integers) |
+| [1386-cinema-seat-allocation](https://github.com/Sivaram1024/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1486-xor-operation-in-an-array](https://github.com/Sivaram1024/Leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Sivaram1024/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Binary Search
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Sivaram1024/Leetcode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Sivaram1024/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sivaram1024/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1386-cinema-seat-allocation](https://github.com/Sivaram1024/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Sivaram1024/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sivaram1024/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Tree
@@ -144,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1386-cinema-seat-allocation](https://github.com/Sivaram1024/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Sivaram1024/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Interactive
 |  |
