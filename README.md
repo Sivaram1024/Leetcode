@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Sivaram1024/Leetcode/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/Sivaram1024/Leetcode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Sivaram1024/Leetcode/tree/master/0125-valid-palindrome) |
 | [0657-robot-return-to-origin](https://github.com/Sivaram1024/Leetcode/tree/master/0657-robot-return-to-origin) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Sivaram1024/Leetcode/tree/master/0007-reverse-integer) |
+| [0013-roman-to-integer](https://github.com/Sivaram1024/Leetcode/tree/master/0013-roman-to-integer) |
 | [0367-valid-perfect-square](https://github.com/Sivaram1024/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/Sivaram1024/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0877-stone-game](https://github.com/Sivaram1024/Leetcode/tree/master/0877-stone-game) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sivaram1024/Leetcode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Sivaram1024/Leetcode/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/Sivaram1024/Leetcode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Sivaram1024/Leetcode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Sivaram1024/Leetcode/tree/master/0349-intersection-of-two-arrays) |
