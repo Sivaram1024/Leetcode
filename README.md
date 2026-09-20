@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Sivaram1024/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Sivaram1024/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3019-number-of-changing-keys](https://github.com/Sivaram1024/Leetcode/tree/master/3019-number-of-changing-keys) |
+| [3498-reverse-degree-of-a-string](https://github.com/Sivaram1024/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Simulation
 |  |
 | ------- |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/Sivaram1024/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/Sivaram1024/Leetcode/tree/master/0682-baseball-game) |
 | [1260-shift-2d-grid](https://github.com/Sivaram1024/Leetcode/tree/master/1260-shift-2d-grid) |
+| [3498-reverse-degree-of-a-string](https://github.com/Sivaram1024/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Array
 |  |
 | ------- |
