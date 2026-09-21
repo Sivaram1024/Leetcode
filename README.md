@@ -226,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0182-duplicate-emails](https://github.com/Sivaram1024/Leetcode/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/Sivaram1024/Leetcode/tree/master/0183-customers-who-never-order) |
 | [0595-big-countries](https://github.com/Sivaram1024/Leetcode/tree/master/0595-big-countries) |
+| [1280-students-and-examinations](https://github.com/Sivaram1024/Leetcode/tree/master/1280-students-and-examinations) |
 ## Segment Tree
 |  |
 | ------- |
