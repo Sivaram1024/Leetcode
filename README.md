@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Sivaram1024/Leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Sivaram1024/Leetcode/tree/master/0125-valid-palindrome) |
 | [0657-robot-return-to-origin](https://github.com/Sivaram1024/Leetcode/tree/master/0657-robot-return-to-origin) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Sivaram1024/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Sivaram1024/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1927-sum-game](https://github.com/Sivaram1024/Leetcode/tree/master/1927-sum-game) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Sivaram1024/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Sivaram1024/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sivaram1024/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0682-baseball-game](https://github.com/Sivaram1024/Leetcode/tree/master/0682-baseball-game) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Sivaram1024/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -276,4 +278,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Sivaram1024/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Sivaram1024/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
