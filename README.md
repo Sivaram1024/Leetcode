@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Sivaram1024/Leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Sivaram1024/Leetcode/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/Sivaram1024/Leetcode/tree/master/0067-add-binary) |
+| [0231-power-of-two](https://github.com/Sivaram1024/Leetcode/tree/master/0231-power-of-two) |
 | [0367-valid-perfect-square](https://github.com/Sivaram1024/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/Sivaram1024/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0877-stone-game](https://github.com/Sivaram1024/Leetcode/tree/master/0877-stone-game) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Sivaram1024/Leetcode/tree/master/0067-add-binary) |
 | [0222-count-complete-tree-nodes](https://github.com/Sivaram1024/Leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0231-power-of-two](https://github.com/Sivaram1024/Leetcode/tree/master/0231-power-of-two) |
 | [0371-sum-of-two-integers](https://github.com/Sivaram1024/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [1386-cinema-seat-allocation](https://github.com/Sivaram1024/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1486-xor-operation-in-an-array](https://github.com/Sivaram1024/Leetcode/tree/master/1486-xor-operation-in-an-array) |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Sivaram1024/Leetcode/tree/master/0002-add-two-numbers) |
+| [0231-power-of-two](https://github.com/Sivaram1024/Leetcode/tree/master/0231-power-of-two) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Sivaram1024/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Linked List
 |  |
