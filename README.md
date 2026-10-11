@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Sivaram1024/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Sivaram1024/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Sivaram1024/Leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Sivaram1024/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Sivaram1024/Leetcode/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sivaram1024/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Sivaram1024/Leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Sivaram1024/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Sivaram1024/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Sivaram1024/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Impartial Game
