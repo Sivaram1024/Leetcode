@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Sivaram1024/Leetcode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Sivaram1024/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sivaram1024/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/Sivaram1024/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Sivaram1024/Leetcode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Sivaram1024/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sivaram1024/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/Sivaram1024/Leetcode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Sivaram1024/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Sivaram1024/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Sivaram1024/Leetcode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Sivaram1024/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sivaram1024/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Sivaram1024/Leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Sivaram1024/Leetcode/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/Sivaram1024/Leetcode/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/Sivaram1024/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Sivaram1024/Leetcode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Sivaram1024/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sivaram1024/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -305,4 +308,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Sivaram1024/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Sivaram1024/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Sivaram1024/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Sivaram1024/Leetcode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Sivaram1024/Leetcode/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Sivaram1024/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
